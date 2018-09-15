@@ -63,5 +63,5 @@ gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 #gem 'active_admin_editor', '~> 1.1'
 #gem 'autoprefixer-rails', '~> 9.1', '>= 9.1.4'
 
-gem 'bootstrap'
+#gem 'bootstrap'
 #gem 'sass-rails', '~> 5.0', '>= 5.0.7'

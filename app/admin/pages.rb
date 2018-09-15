@@ -4,7 +4,7 @@ ActiveAdmin.register Page do
 #
 # permit_params :list, :of, :attributes, :on, :model
 #
-permit_params :title, :section_id, :body, :order, :is_publidhed, :menu_display
+permit_params :title, :section_id, :body, :order, :is_published, :menu_display
 # or
 #
 # permit_params do
