@@ -62,3 +62,6 @@ gem 'font-awesome-rails', '~> 4.7', '>= 4.7.0.4'
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 #gem 'active_admin_editor', '~> 1.1'
 #gem 'autoprefixer-rails', '~> 9.1', '>= 9.1.4'
+
+gem 'bootstrap'
+#gem 'sass-rails', '~> 5.0', '>= 5.0.7'
